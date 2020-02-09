@@ -1,4 +1,4 @@
-# Rock Paper Scissors
+# Douglas Adams Tribute
 
 ## General Information:
 This project was complete in order to practice basic html and css.
